@@ -11,9 +11,9 @@ If you want to try the app yourself, you can use the link from the top of the pa
 
 This project was created by:
 
+-   Paweł Świderski (https://github.com/PawelSwiderski1)
 -   Mikołaj Mróz (https://github.com/mikolaj2268)
 -   Michał Binda (https://github.com/michal1701)
--   Paweł Świderski
 
 # Main panel
 ![](https://github.com/mikolaj2268/Youtube_wrapped_RShiny/blob/main/Visualizations/Screenshot%202023-04-07%20161802.png)
